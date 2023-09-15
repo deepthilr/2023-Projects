@@ -137,7 +137,7 @@ ultimately enhancing the value and effectiveness of social network platforms
     <td><br><br></td>
     <td>Problem Defintion<br></td>
     <td>
-      <a href="B5/Group-B5_Problem Defintion.pdf">Problem Definition</a>
+      <a href="C4/Problem Definition.pdf">Problem Definition</a>
     </td>
   </tr>
   <tr>
@@ -146,7 +146,7 @@ ultimately enhancing the value and effectiveness of social network platforms
     <td><br><br></td>
     <td>Proposal submitted<br>Progress: 10%</td>
     <td>
-      <a href="B5/Group-B5_Proposal.pdf">Proposal</a>
+      <a href="C4/Proposal.pdf">Proposal</a>
     </td>
   </tr>  
 </table>
