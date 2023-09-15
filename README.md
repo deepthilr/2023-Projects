@@ -64,7 +64,7 @@ ultimately enhancing the value and effectiveness of social network platforms
     <td><br><br></td>
     <td>Problem Defintion<br></td>
     <td>
-      <a href="slides-1.pdf">Presentation Slides</a>
+      <a href="slides-1.pdf">Problem Definition</a>
     </td>
   </tr>
   <tr>
@@ -73,7 +73,6 @@ ultimately enhancing the value and effectiveness of social network platforms
     <td><br><br></td>
     <td>Proposal submitted<br>Progress: 10%</td>
     <td>
-      <a href="proposal.pdf">Problem Definition</a><br>
       <a href="slides-2.pdf">Proposal</a>
     </td>
   </tr>  
