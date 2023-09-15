@@ -150,3 +150,79 @@ ultimately enhancing the value and effectiveness of social network platforms
     </td>
   </tr>  
 </table>
+
+
+
+# Group No:DB4
+
+# Project Title: Leader-Based Community Detection Algorithm in Attributed Networks
+
+
+**Abstract**: To address the problem of identifying overlapping communities in networks while considering node attributes as well as the topological structure of the network. Normal community detection algorithms assume non-overlapping communities and ignore the additional information provided by node attributes. However, in many real-world scenarios, such as social networks or biological systems, nodes can belong to multiple communities simultaneously. By considering and combining the information from node attributes and the network topology, this project aims to develop an algorithm that can effectively detect overlapping communities that align with both the connections between nodes and their shared attributes, allowing for a more accurate understanding of complex network structures. This problem is relevant as it has applications in various domains, including social network analysis, recommendation systems, and understanding complex systems, providing valuable insights into the relationships and interactions within the networks.
+
+
+
+## Project guide: Deepthi L.R
+## Team
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Roll number</th>
+    <th>Name</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>AM.EN.U4CSE20275</td>
+    <td>Vennam Venkata Siva Naga Sai Mohan</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>AM.EN.U4CSE20217</td>
+    <td>Boora Jagadananda Tharaka</td>
+  </tr>  
+<tr>
+    <td>3</td>
+    <td>AM.EN.U4CSE20215</td>
+    <td>Balla Hemanth
+</td>
+  </tr>  
+  <tr>
+    <td>3</td>
+    <td>AM.EN.U4CSE20248</td>
+    <td>Mudiyala Vishal Reddy </td>
+  </tr>
+ 
+</table>
+
+
+## Project Milestones
+
+<table>
+  <tr>
+    <th>Milestone review</th>
+    <th>Review date</th>
+    <th>Panel members</th>
+    <th>Project status</th>
+    <th>Deliverables</th>
+  </tr>
+  <tr>
+    <td>1. Literature study</td>
+    <td>10-07-2023</td>
+    <td><br><br></td>
+    <td>Problem Defintion<br></td>
+    <td>
+      <a href="C4/Problem Definition.pdf">Problem Definition</a>
+    </td>
+  </tr>
+  <tr>
+    <td>2. Problem definition</td>
+    <td>30-07-2023</td>
+    <td><br><br></td>
+    <td>Proposal submitted<br>Progress: 10%</td>
+    <td>
+      <a href="C4/Proposal.pdf">Proposal</a>
+    </td>
+  </tr>  
+</table>
+
