@@ -73,7 +73,7 @@ ultimately enhancing the value and effectiveness of social network platforms
     <td><br><br></td>
     <td>Proposal submitted<br>Progress: 10%</td>
     <td>
-      <a href="slides-2.pdf">Proposal</a>
+      <a href="B5/Group-B5_Proposal.pdf">Proposal</a>
     </td>
   </tr>  
 </table>
