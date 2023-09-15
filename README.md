@@ -158,7 +158,7 @@ ultimately enhancing the value and effectiveness of social network platforms
 # Project Title: Leader-Based Community Detection Algorithm in Attributed Networks
 
 
-**Abstract**: To address the problem of identifying overlapping communities in networks while considering node attributes as well as the topological structure of the network. Normal community detection algorithms assume non-overlapping communities and ignore the additional information provided by node attributes. However, in many real-world scenarios, such as social networks or biological systems, nodes can belong to multiple communities simultaneously. By considering and combining the information from node attributes and the network topology, this project aims to develop an algorithm that can effectively detect overlapping communities that align with both the connections between nodes and their shared attributes, allowing for a more accurate understanding of complex network structures. This problem is relevant as it has applications in various domains, including social network analysis, recommendation systems, and understanding complex systems, providing valuable insights into the relationships and interactions within the networks.
+**Abstract**: The project aims to address the problem of community detection in attributed networks by developing a Leader-Based Community Detection Algorithm. Community detection refers to the task of identifying groups or communities of nodes within a network that exhibit strong interconnections. Attributed networks include additional information or attributes associated with nodes, which can provide valuable insights for community detection. The problem is relevant because accurately identifying communities in attributed networks can help in various domains such as social network analysis, recommendation systems, and understanding complex relationships. The proposed algorithm will leverage the attributes and network structure to improve the accuracy and effectiveness of community detection in such networks.
 
 
 
@@ -173,24 +173,24 @@ ultimately enhancing the value and effectiveness of social network platforms
   </tr>
   <tr>
     <td>1</td>
-    <td>AM.EN.U4CSE20275</td>
-    <td>Vennam Venkata Siva Naga Sai Mohan</td>
+    <td>AM.EN.U4CSE20339</td>
+    <td>Krishnpriya Dinesan</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>AM.EN.U4CSE20217</td>
-    <td>Boora Jagadananda Tharaka</td>
+    <td>AM.EN.U4CSE20366</td>
+    <td>Sreesankar S</td>
   </tr>  
 <tr>
     <td>3</td>
-    <td>AM.EN.U4CSE20215</td>
-    <td>Balla Hemanth
+    <td>AM.EN.U4CSE20321</td>
+    <td>Devesh Kumar V V
 </td>
   </tr>  
   <tr>
     <td>3</td>
-    <td>AM.EN.U4CSE20248</td>
-    <td>Mudiyala Vishal Reddy </td>
+    <td>AM.EN.U4CSE20152</td>
+    <td>Pranav B Nair </td>
   </tr>
  
 </table>
